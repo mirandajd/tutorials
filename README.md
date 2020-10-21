@@ -5,6 +5,8 @@ Here we have tutorials for the techonologies that our center supports. These too
 ## Our Tutorials:
 * [Beginner Scalar](#scalar-i)
 * [Intermediate Scalar](#scalar-ii)
+* [StoryMapJS](#storymapjs)
+* [TimelineJS](#timelinejs)
 
 # Scalar I
 ## Introduction to the tool:
@@ -32,13 +34,38 @@ This tutorial assumes that you have already created a Scalar book that includes 
 
 
 ### This tool is great for:
-* Dipoing you toes in CSS, Javascript, and web design customizations
+* Dipping you toes in CSS, Javascript, and web design customizations
 ### This tool is not great for:
 * Simultaneous editing of the same Scalar book
 * Version control of your custom code (use [Git](https://git-scm.com/) or [GitHub](https://github.com/) for this).
 
+# StoryMapJS
+## Introduction to the tool:
 
+StoryMapJS is a free, open-source tool that combines narratives with locations, letting users tell a media-rich story. It has an easy-to-use authoring tool that's robust enough for many uses, and can also be customized with code for more advanced projects.
 
+**Our StoryMapJS tutorial is located here: [StoryMapJS.md](https://github.com/dhc-barnard/tutorials/blob/master/StoryMapJS.md)**
+
+### This tool is great for:
+* Digital storytelling
+* Visualizing locations in a narrative
+### This tool is not great for:
+* Projects with lots of writing
+* Multi-linear narratives
+
+# TimelineJS
+## Introduction to the tool:
+
+TimelineJS is a free, open-source tool that allows you to make media-rich, chronological timelines. It can be helpful for illuminating cause and effect, putting stories into historical context, highlighting changes over a period of time and understanding the impact of time on narratives.
+
+**Our TimelineJS tutorial is located here: [TimelineJS.md](https://github.com/dhc-barnard/tutorials/blob/master/TimelineJS.md)**
+
+### This tool is great for:
+* Digital storytelling
+* Visualizing stories with a strong chronological narrative
+### This tool is not great for:
+* Projects with lots of writing
+* Multi-linear narratives
 
 
 
